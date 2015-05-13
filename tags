@@ -1,0 +1,176 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+AXP209_ACIN_INSERT	axp209_event.h	10;"	d
+AXP209_ACIN_REMOVE	axp209_event.h	11;"	d
+AXP209_CHARGING	axp209_event.h	8;"	d
+AXP209_CHARG_FINISHED	axp209_event.h	9;"	d
+AXP209_PEK_PRESS	axp209_event.h	4;"	d
+AXP209_PEK_PRESS_LONG	axp209_event.h	5;"	d
+AXP209_SET_TIMER	axp209_event.h	12;"	d
+AXP209_VBUS_INSERT	axp209_event.h	6;"	d
+AXP209_VBUS_REMOVE	axp209_event.h	7;"	d
+BIT2_3	rgbled.h	/^        uint8    BIT2_3:2;$/;"	m	struct:lcfg::__anon2	access:public
+BIT3	rgbled.h	/^        uint8    BIT3:1;$/;"	m	struct:t1_t2::__anon4	access:public
+BIT3	rgbled.h	/^        uint8    BIT3:1;$/;"	m	struct:t3_t4::__anon5	access:public
+CONFIG_RALINK_MT7620	mt7620a_reg.h	4;"	d
+CTR	rgbled.h	7;"	d
+DECLARE_LEDCFG	rgbled.c	60;"	d	file:
+ELEC0_20	axp209_event.h	/^    ELEC0_20,$/;"	e	enum:__anon1
+ELEC0_20_C	axp209_event.h	/^    ELEC0_20_C,$/;"	e	enum:__anon1
+ELEC20_50	axp209_event.h	/^    ELEC20_50,$/;"	e	enum:__anon1
+ELEC20_50_C	axp209_event.h	/^    ELEC20_50_C,$/;"	e	enum:__anon1
+ELEC50_80	axp209_event.h	/^    ELEC50_80,$/;"	e	enum:__anon1
+ELEC50_80_C	axp209_event.h	/^    ELEC50_80_C,$/;"	e	enum:__anon1
+ELEC80_100	axp209_event.h	/^    ELEC80_100 = 0x20,$/;"	e	enum:__anon1
+ELEC80_100_C	axp209_event.h	/^    ELEC80_100_C,$/;"	e	enum:__anon1
+FI	rgbled.h	/^        uint8    FI:1;$/;"	m	struct:lcfg::__anon2	access:public
+FO	rgbled.h	/^        uint8    FO:1;$/;"	m	struct:lcfg::__anon2	access:public
+GCR	rgbled.h	5;"	d
+GPIO_39_24_DATA	mt7620a_reg.h	27;"	d
+GPIO_39_24_DATA_OFFSET	mt7620a_reg.h	9;"	d
+GPIO_39_24_DIR	mt7620a_reg.h	28;"	d
+GPIO_39_24_DIR_OFFSET	mt7620a_reg.h	10;"	d
+GPIO_39_24_EDGE	mt7620a_reg.h	30;"	d
+GPIO_39_24_EDGE_OFFSET	mt7620a_reg.h	12;"	d
+GPIO_39_24_FMASK	mt7620a_reg.h	32;"	d
+GPIO_39_24_FMASK_OFFSET	mt7620a_reg.h	14;"	d
+GPIO_39_24_INT	mt7620a_reg.h	29;"	d
+GPIO_39_24_INT_OFFSET	mt7620a_reg.h	11;"	d
+GPIO_39_24_RMASK	mt7620a_reg.h	31;"	d
+GPIO_39_24_RMASK_OFFSET	mt7620a_reg.h	13;"	d
+GPIO_71_40_DATA	mt7620a_reg.h	35;"	d
+GPIO_71_40_DATA_OFFSET	mt7620a_reg.h	16;"	d
+GPIO_71_40_DIR	mt7620a_reg.h	36;"	d
+GPIO_71_40_DIR_OFFSET	mt7620a_reg.h	17;"	d
+GPIO_71_40_EDGE	mt7620a_reg.h	38;"	d
+GPIO_71_40_EDGE_OFFSET	mt7620a_reg.h	19;"	d
+GPIO_71_40_FMASK	mt7620a_reg.h	40;"	d
+GPIO_71_40_FMASK_OFFSET	mt7620a_reg.h	21;"	d
+GPIO_71_40_INT	mt7620a_reg.h	37;"	d
+GPIO_71_40_INT_OFFSET	mt7620a_reg.h	18;"	d
+GPIO_71_40_RMASK	mt7620a_reg.h	39;"	d
+GPIO_71_40_RMASK_OFFSET	mt7620a_reg.h	20;"	d
+GPIO_IRQ_NUM	rgbled.c	34;"	d	file:
+GPIO_MODE	mt7620a_reg.h	25;"	d
+GPIO_MODE_OFFSET	mt7620a_reg.h	8;"	d
+IADR	rgbled.h	23;"	d
+IMAX	rgbled.h	/^        uint8    IMAX:2;$/;"	m	struct:lcfg::__anon2	access:public
+INTENA	mt7620a_reg.h	33;"	d
+INTENA_OFFSET	mt7620a_reg.h	23;"	d
+ISR	rgbled.h	6;"	d
+LCFG	rgbled.h	/^    union lcfg LCFG;$/;"	m	struct:ledcfg	typeref:union:ledcfg::lcfg	access:public
+LCFG0	rgbled.h	8;"	d
+LCFG1	rgbled.h	9;"	d
+LCFG2	rgbled.h	10;"	d
+LCTR	rgbled.h	/^    union lctr LCTR;$/;"	m	struct:ledcfg	typeref:union:ledcfg::lctr	access:public
+LED0	rgbled.h	/^        uint8    LED0:1;$/;"	m	struct:lctr::__anon3	access:public
+LED0T0	rgbled.h	14;"	d
+LED0T1	rgbled.h	15;"	d
+LED0T2	rgbled.h	16;"	d
+LED1	rgbled.h	/^        uint8    LED1:1;$/;"	m	struct:lctr::__anon3	access:public
+LED1T0	rgbled.h	17;"	d
+LED1T1	rgbled.h	18;"	d
+LED1T2	rgbled.h	19;"	d
+LED2	rgbled.h	/^        uint8    LED2:1;$/;"	m	struct:lctr::__anon3	access:public
+LED2T0	rgbled.h	20;"	d
+LED2T1	rgbled.h	21;"	d
+LED2T2	rgbled.h	22;"	d
+MD	rgbled.h	/^        uint8    MD:1;$/;"	m	struct:lcfg::__anon2	access:public
+PWM	rgbled.h	/^    uint8   PWM;$/;"	m	struct:ledcfg	access:public
+PWM0	rgbled.h	11;"	d
+PWM1	rgbled.h	12;"	d
+PWM2	rgbled.h	13;"	d
+REPEAT	rgbled.h	/^        uint8    REPEAT:4;$/;"	m	struct:t0::__anon6	access:public
+RSTR	rgbled.h	4;"	d
+T0	rgbled.h	/^        uint8    T0:4;$/;"	m	struct:t0::__anon6	access:public
+T0	rgbled.h	/^    union t0   T0;$/;"	m	struct:ledcfg	typeref:union:ledcfg::t0	access:public
+T1	rgbled.h	/^        uint8    T1:3;$/;"	m	struct:t1_t2::__anon4	access:public
+T1_T2	rgbled.h	/^    union t1_t2 T1_T2;$/;"	m	struct:ledcfg	typeref:union:ledcfg::t1_t2	access:public
+T2	rgbled.h	/^        uint8    T2:3;$/;"	m	struct:t1_t2::__anon4	access:public
+T3	rgbled.h	/^        uint8    T3:3;$/;"	m	struct:t3_t4::__anon5	access:public
+T3_T4	rgbled.h	/^    union t3_t4 T3_T4;$/;"	m	struct:ledcfg	typeref:union:ledcfg::t3_t4	access:public
+T4	rgbled.h	/^        uint8    T4:3;$/;"	m	struct:t3_t4::__anon5	access:public
+__AXP209_EVENT_H__	axp209_event.h	2;"	d
+__MT7620A_REG_H__	mt7620a_reg.h	2;"	d
+__RGBLED_H__	rgbled.h	2;"	d
+__anon7::client	rgbled.c	/^    struct i2c_client *client;$/;"	m	struct:__anon7	typeref:struct:__anon7::i2c_client	file:	access:public
+__anon7::sem	rgbled.c	/^    struct semaphore sem;$/;"	m	struct:__anon7	typeref:struct:__anon7::semaphore	file:	access:public
+__module_depends	rgbled.mod.c	/^static const char __module_depends[]$/;"	p	file:	signature:(section(Ó))
+axp209_event	rgbled.c	/^int axp209_event(struct notifier_block *nb, unsigned long event, void *v)$/;"	f	signature:(struct notifier_block *nb, unsigned long event, void *v)
+client	rgbled.c	/^    struct i2c_client *client;$/;"	m	struct:__anon7	typeref:struct:__anon7::i2c_client	file:	access:public
+init_cfg	rgbled.c	/^const struct ledcfg   init_cfg = {$/;"	v	typeref:struct:ledcfg
+irq_status_chk	rgbled.c	/^static int irq_status_chk(void *dummy)$/;"	f	file:	signature:(void *dummy)
+lcfg	rgbled.h	/^    }lcfg;$/;"	m	union:lcfg	typeref:struct:lcfg::__anon2	access:public
+lcfg	rgbled.h	/^union lcfg{$/;"	u
+lcfg::__anon2::BIT2_3	rgbled.h	/^        uint8    BIT2_3:2;$/;"	m	struct:lcfg::__anon2	access:public
+lcfg::__anon2::FI	rgbled.h	/^        uint8    FI:1;$/;"	m	struct:lcfg::__anon2	access:public
+lcfg::__anon2::FO	rgbled.h	/^        uint8    FO:1;$/;"	m	struct:lcfg::__anon2	access:public
+lcfg::__anon2::IMAX	rgbled.h	/^        uint8    IMAX:2;$/;"	m	struct:lcfg::__anon2	access:public
+lcfg::__anon2::MD	rgbled.h	/^        uint8    MD:1;$/;"	m	struct:lcfg::__anon2	access:public
+lcfg::lcfg	rgbled.h	/^    }lcfg;$/;"	m	union:lcfg	typeref:struct:lcfg::__anon2	access:public
+lcfg::value	rgbled.h	/^    uint8 value;$/;"	m	union:lcfg	access:public
+lctr	rgbled.h	/^    }lctr;$/;"	m	union:lctr	typeref:struct:lctr::__anon3	access:public
+lctr	rgbled.h	/^union lctr{$/;"	u
+lctr::__anon3::LED0	rgbled.h	/^        uint8    LED0:1;$/;"	m	struct:lctr::__anon3	access:public
+lctr::__anon3::LED1	rgbled.h	/^        uint8    LED1:1;$/;"	m	struct:lctr::__anon3	access:public
+lctr::__anon3::LED2	rgbled.h	/^        uint8    LED2:1;$/;"	m	struct:lctr::__anon3	access:public
+lctr::lctr	rgbled.h	/^    }lctr;$/;"	m	union:lctr	typeref:struct:lctr::__anon3	access:public
+lctr::value	rgbled.h	/^    uint8 value;$/;"	m	union:lctr	access:public
+ledcfg	rgbled.h	/^struct  ledcfg{$/;"	s
+ledcfg::LCFG	rgbled.h	/^    union lcfg LCFG;$/;"	m	struct:ledcfg	typeref:union:ledcfg::lcfg	access:public
+ledcfg::LCTR	rgbled.h	/^    union lctr LCTR;$/;"	m	struct:ledcfg	typeref:union:ledcfg::lctr	access:public
+ledcfg::PWM	rgbled.h	/^    uint8   PWM;$/;"	m	struct:ledcfg	access:public
+ledcfg::T0	rgbled.h	/^    union t0   T0;$/;"	m	struct:ledcfg	typeref:union:ledcfg::t0	access:public
+ledcfg::T1_T2	rgbled.h	/^    union t1_t2 T1_T2;$/;"	m	struct:ledcfg	typeref:union:ledcfg::t1_t2	access:public
+ledcfg::T3_T4	rgbled.h	/^    union t3_t4 T3_T4;$/;"	m	struct:ledcfg	typeref:union:ledcfg::t3_t4	access:public
+module	rgbled.mod.c	/^struct module __this_module$/;"	p	file:	signature:(section(Ó))
+register_axp209_notifier	rgbled.c	/^extern int register_axp209_notifier(struct notifier_block *nb);$/;"	p	file:	signature:(struct notifier_block *nb)
+rgbled_driver	rgbled.c	/^module_i2c_driver(rgbled_driver);$/;"	v
+rgbled_driver	rgbled.c	/^static struct i2c_driver rgbled_driver = {$/;"	v	typeref:struct:i2c_driver	file:
+rgbled_id	rgbled.c	/^static const struct i2c_device_id rgbled_id[] = {$/;"	v	typeref:struct:i2c_device_id	file:
+rgbled_info	rgbled.c	/^}rgbled_info;$/;"	v	typeref:struct:__anon7
+rgbled_notifier	rgbled.c	/^static struct notifier_block rgbled_notifier = {$/;"	v	typeref:struct:notifier_block	file:
+rgbled_of_match	rgbled.c	/^static const struct of_device_id rgbled_of_match[] = {$/;"	v	typeref:struct:of_device_id	file:
+rgbled_probe	rgbled.c	/^static int rgbled_probe(struct i2c_client *client,const struct i2c_device_id *id)$/;"	f	file:	signature:(struct i2c_client *client,const struct i2c_device_id *id)
+rgbled_readData	rgbled.c	/^static int rgbled_readData(struct i2c_client *client, unsigned char reg,unsigned char *value)$/;"	f	file:	signature:(struct i2c_client *client, unsigned char reg,unsigned char *value)
+rgbled_readData	rgbled.c	/^static int rgbled_readData(struct i2c_client *client, unsigned char reg,unsigned char *value);$/;"	p	file:	signature:(struct i2c_client *client, unsigned char reg,unsigned char *value)
+rgbled_read_a8_d8	rgbled.c	/^int rgbled_read_a8_d8(struct i2c_client *client, unsigned char addr,unsigned char *value)$/;"	f	signature:(struct i2c_client *client, unsigned char addr,unsigned char *value)
+rgbled_read_a8_d8	rgbled.c	/^int rgbled_read_a8_d8(struct i2c_client *client, unsigned char addr,unsigned char *value);$/;"	p	file:	signature:(struct i2c_client *client, unsigned char addr,unsigned char *value)
+rgbled_remove	rgbled.c	/^static int rgbled_remove(struct i2c_client *client)$/;"	f	file:	signature:(struct i2c_client *client)
+rgbled_sendData	rgbled.c	/^static int rgbled_sendData(struct i2c_client *client, unsigned char reg,unsigned char value)$/;"	f	file:	signature:(struct i2c_client *client, unsigned char reg,unsigned char value)
+rgbled_write_a8_d8	rgbled.c	/^int rgbled_write_a8_d8(struct i2c_client *client, unsigned char addr,unsigned char value)$/;"	f	signature:(struct i2c_client *client, unsigned char addr,unsigned char value)
+rgbled_write_a8_d8	rgbled.c	/^int rgbled_write_a8_d8(struct i2c_client *client, unsigned char addr,unsigned char value);$/;"	p	file:	signature:(struct i2c_client *client, unsigned char addr,unsigned char value)
+rgbled_write_config	rgbled.c	/^void rgbled_write_config(struct i2c_client *client,struct ledcfg cfg)$/;"	f	signature:(struct i2c_client *client,struct ledcfg cfg)
+rgbled_write_config	rgbled.c	/^void rgbled_write_config(struct i2c_client *client,struct ledcfg cfg);$/;"	p	file:	signature:(struct i2c_client *client,struct ledcfg cfg)
+sem	rgbled.c	/^    struct semaphore sem;$/;"	m	struct:__anon7	typeref:struct:__anon7::semaphore	file:	access:public
+t0	rgbled.h	/^    }t0;$/;"	m	union:t0	typeref:struct:t0::__anon6	access:public
+t0	rgbled.h	/^union t0{$/;"	u
+t0::__anon6::REPEAT	rgbled.h	/^        uint8    REPEAT:4;$/;"	m	struct:t0::__anon6	access:public
+t0::__anon6::T0	rgbled.h	/^        uint8    T0:4;$/;"	m	struct:t0::__anon6	access:public
+t0::t0	rgbled.h	/^    }t0;$/;"	m	union:t0	typeref:struct:t0::__anon6	access:public
+t0::value	rgbled.h	/^    uint8   value;$/;"	m	union:t0	access:public
+t1_t2	rgbled.h	/^    }t1_t2;$/;"	m	union:t1_t2	typeref:struct:t1_t2::__anon4	access:public
+t1_t2	rgbled.h	/^union t1_t2{$/;"	u
+t1_t2::__anon4::BIT3	rgbled.h	/^        uint8    BIT3:1;$/;"	m	struct:t1_t2::__anon4	access:public
+t1_t2::__anon4::T1	rgbled.h	/^        uint8    T1:3;$/;"	m	struct:t1_t2::__anon4	access:public
+t1_t2::__anon4::T2	rgbled.h	/^        uint8    T2:3;$/;"	m	struct:t1_t2::__anon4	access:public
+t1_t2::t1_t2	rgbled.h	/^    }t1_t2;$/;"	m	union:t1_t2	typeref:struct:t1_t2::__anon4	access:public
+t1_t2::value	rgbled.h	/^    uint8   value;$/;"	m	union:t1_t2	access:public
+t3_t4	rgbled.h	/^    }t3_t4;$/;"	m	union:t3_t4	typeref:struct:t3_t4::__anon5	access:public
+t3_t4	rgbled.h	/^union t3_t4{$/;"	u
+t3_t4::__anon5::BIT3	rgbled.h	/^        uint8    BIT3:1;$/;"	m	struct:t3_t4::__anon5	access:public
+t3_t4::__anon5::T3	rgbled.h	/^        uint8    T3:3;$/;"	m	struct:t3_t4::__anon5	access:public
+t3_t4::__anon5::T4	rgbled.h	/^        uint8    T4:3;$/;"	m	struct:t3_t4::__anon5	access:public
+t3_t4::t3_t4	rgbled.h	/^    }t3_t4;$/;"	m	union:t3_t4	typeref:struct:t3_t4::__anon5	access:public
+t3_t4::value	rgbled.h	/^    uint8 value;$/;"	m	union:t3_t4	access:public
+uint8	rgbled.h	26;"	d
+unregister_axp209_notifier	rgbled.c	/^extern int unregister_axp209_notifier(struct notifier_block *nb);$/;"	p	file:	signature:(struct notifier_block *nb)
+value	rgbled.h	/^    uint8   value;$/;"	m	union:t0	access:public
+value	rgbled.h	/^    uint8   value;$/;"	m	union:t1_t2	access:public
+value	rgbled.h	/^    uint8 value;$/;"	m	union:lcfg	access:public
+value	rgbled.h	/^    uint8 value;$/;"	m	union:lctr	access:public
+value	rgbled.h	/^    uint8 value;$/;"	m	union:t3_t4	access:public
